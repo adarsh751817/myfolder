@@ -1,0 +1,146 @@
+body 
+{
+    background-image: url('back.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.headpoints 
+{
+    display: flex;
+    color: white;
+    margin-left: 75px;
+    justify-content:space-evenly;
+
+}
+.headpoints:hover{
+    /* background:white; */
+    color: orangered;
+}
+.ax 
+{
+ margin-top: 20px;
+  height: 20px;
+  width: 300px;
+  border: 2px solid orangered;
+}
+
+.search12 
+{
+    margin-top: 20px;
+    height: 30px;
+    margin-right:20px;
+    background-color:orangered ;
+}
+.course 
+{
+    color: white;
+    margin-top: 200px;
+    margin-left: 100px;
+    font-size: 3rem;
+}
+.cx1 
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.cx2 
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: orangered;
+}
+.cx3 
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.container 
+{
+    color: white;
+    margin-left: 100px;
+
+}
+
+.button1
+{
+ margin-left: 150px;
+ height: 35px;
+ 
+}
+.bc1 
+{
+    background-color:orangered ;
+    width: 100px;
+    height: 35px;
+    border-radius: 6px;
+
+
+}
+.form 
+{
+    margin-left: 850px;
+    height: 400px;
+    width: 300px;
+    background:linear-gradient(to top, rgb(0,0,0,0.8), rgb(0,0,0,0.8)) ;
+    
+}
+
+.form h2 
+{
+    background-color: white;
+    color: orangered;
+    text-align: center;
+    border-radius: 7px;
+    margin: 8px;
+    padding:2px;
+}
+.form input 
+{
+    height: 35px;
+    width: 200px;
+
+    background-color: transparent;
+    margin:14px ;
+    padding: 7px;
+    border-bottom: 1px solid orangered;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.cc1 
+{
+    background-color:orangered ;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25px;
+    height: 35px;
+    border-radius: 7px;
+    font-size: 1.5rem;
+}
+.form p 
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+    font-size: 1rem;
+}
+.cc2 
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.images
+{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    color: white;
+}
